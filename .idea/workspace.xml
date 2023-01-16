@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;preparing java class&quot;">
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/data_type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/if_condition_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/if_condition_statement_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/if_condition_statement_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement_example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/logical_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/logical_operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/switch_condition_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/switch_condition_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/type_conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/type_conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/opentutorials/javatutorials/numberstring/variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jiu_java_prepare/variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/ForLoopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/NestedLoopStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/WhileLoopStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,8 +117,33 @@
       <option name="project" value="LOCAL" />
       <updated>1673855973867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;preparing java class&quot;">
+      <created>1673856696459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673856696459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;preparing java class&quot;">
+      <created>1673856715801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673856715801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
