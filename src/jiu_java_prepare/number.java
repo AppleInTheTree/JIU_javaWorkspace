@@ -1,4 +1,4 @@
-package org.opentutorials.javatutorials.numberstring;
+package jiu_java_prepare;
 
 public class number {
 
