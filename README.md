@@ -1,2 +1,3 @@
 # javaWorkspace
-this is for preparing a java class in jiu
+
+This is for preparing a java class in JIU
