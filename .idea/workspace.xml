@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;preparing java class&quot;">
-      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/ErrorOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/ForEachStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/InputOutputDemoOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/InputOutputDemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/MethodInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/MethodOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/MultipleMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiu_java_prepare/ScannerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._01_HelloWorld">
+  <component name="RunManager">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -87,9 +91,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._01_HelloWorld" />
         <item itemvalue="Application._03_Variables" />
         <item itemvalue="Application._02_DataTypes" />
-        <item itemvalue="Application._01_HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673860368205</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;preparing java class&quot;">
+      <created>1673862904381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673862904381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;preparing java class&quot;">
+      <created>1673862914132</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673862914132</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;preparing java class&quot;">
+      <created>1673863099644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673863099644</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
