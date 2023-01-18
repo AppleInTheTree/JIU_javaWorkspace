@@ -5,43 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY3&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceMethonDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassMethodExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgramming/ClassInstanceObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/javaclass/AssignmentOneFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentOneFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/javaclass/AssignmentTwoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentTwoOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/javaclass/AssignmentTwoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentTwoTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/javaclass/HomeworkTwoPone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/HomeworkTwoPone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_01/_01_HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_01/_02_DataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_01/_03_Variables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/BreakAndContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/BreakAndContinue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/ErrorOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/ErrorOfArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/ErrorOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/ErrorOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/ForEachStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/ForEachStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/ForLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/ForLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/InputOutputDemoOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/InputOutputDemoOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/InputOutputDemoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/InputOutputDemoOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/MethodInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/MethodInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/MethodOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/MethodOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/MultipleMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/MultipleMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/NestedLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/NestedLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/ScannerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/ScannerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/WhileLoopStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/WhileLoopStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/data_type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/data_type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/if_condition_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/if_condition_statement_example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/if_condition_statement_example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/if_condition_statement_example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/logical_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/logical_operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/switch_condition_statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/switch_condition_statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/type_conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/type_conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jiu_java_prepare/variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674033156381</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="&quot;JIU-JAVA-PREPARE DAY3&quot;">
+      <created>1674033718888</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674033718888</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

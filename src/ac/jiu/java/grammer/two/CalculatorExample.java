@@ -1,6 +1,7 @@
 package ac.jiu.java.grammer.two;
 class Calculator{ // 객체는 하나의 프로그램이다.
     int left, right; //인스턴스 변수
+    /*클래스 변수를 선언하면 그 클래스안에 들어있는 인스턴스들은 모두 접근 가능*/
     static double PI = 3.14; // static이 있어서 클래스 변수이다 static은 클래스에 소속된다 모든 메소드에서 동일한 값을 가져온다
     public void setOprands(int left, int right){
         this.left = left; //this.을 해주면 클래스의 변수를 의미한다, .이 없으면 매개변수
@@ -27,9 +28,9 @@ public class CalculatorExample {
 
         c1.sum();
         c1.avg();
-        System.out.println(c1.PI);
-        System.out.println(Calculator.PI);
-        Calculator.PI = 10;
+        System.out.println(c1.PI); //c1.PI를 하면 인스턴스를 통해 접근할수 있지만
+        System.out.println(Calculator.PI); // 클래스를 통해서도 접근 가능
+        Calculator.PI = 10; //static은 나중에 바꿀수 있음. final은 안됨
         System.out.println(c1.PI);
     }
 }
