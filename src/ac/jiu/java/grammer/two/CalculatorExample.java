@@ -8,7 +8,7 @@ class Calculator{ // 객체는 하나의 프로그램이다.
         this.right = right;
     }
     public void sum(){
-        System.out.println(this.left + this.right + PI);
+        System.out.println(this.left + this.right );
     }
     public void avg(){
         System.out.println((this.left+this.right)/2 +PI);

@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY3&quot;">
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY4&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/InheritanceOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/Scope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceMethonDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceMethonDiff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -219,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674036703754</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="&quot;JIU-JAVA-PREPARE DAY4&quot;">
+      <created>1674093221455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674093221455</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,7 +249,8 @@
     <MESSAGE value="&quot;preparing java class&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY2&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY3&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY3&quot;" />
+    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY4&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY4&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
