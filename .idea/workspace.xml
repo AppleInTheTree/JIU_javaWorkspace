@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY4&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/InheritanceOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/Overriding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/CalculatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceMethonDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/two/ClassInstanceMethonDiff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674093221455</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&quot;JIU-JAVA-PREPARE DAY4&quot;">
+      <created>1674110473696</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674110473696</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
