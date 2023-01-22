@@ -9,8 +9,9 @@ package ac.jiu.java.grammer.two;
 * */
 
 /*API
-*
-*
+* 자바 애플리케이션을 개발하는 개발자들은 자바 API를 사용하게 된다.
+* 자바 홈페이지에서 API Spec을 확인할수 있다.
+* Package는 클래스들의 묶음
 *
 *
 * */
@@ -19,12 +20,17 @@ class Item {
     public void print(){
         System.out.println("Hello World"); // System은 클래스 out은 인스턴스화 시키지 않고 바로 사용하였기에 static, 클래스의 필드(변수) 그리고 println은 메소드
     }
+    public static void hello() {
+        System.out.println(("Hello world"));
+    }
 }
 
 public class ClassPath {
     public static void main(String[] args) {
         Item item = new Item();
         item.print();
+
+        Item.hello();
     }
 }
 
