@@ -23,6 +23,9 @@ class Item {
     public static void hello() {
         System.out.println(("Hello world"));
     }
+    public int add (int a, int b){
+        return (a+b);
+    }
 }
 
 public class ClassPath {
@@ -31,6 +34,8 @@ public class ClassPath {
         item.print();
 
         Item.hello();
+        int adding = item.add(10, 20);
+        System.out.println(adding);
     }
 }
 
