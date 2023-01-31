@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY7&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q1_KilometerPerMile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q2_KilometerPerMileInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q3_MultheDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q4_PrintInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q5_StringDoubleInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q6_CalculateEnergy.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY8&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q1_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q2_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q3_DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q4_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q6_Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ahn_euijin/Desktop/JIU 1학기 수업/javaWorkspace&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
@@ -266,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674448088299</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="&quot;JIU-JAVA-PREPARE DAY8&quot;">
+      <created>1674526825906</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674526825906</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +296,8 @@
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY5&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY6&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY7&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY7&quot;" />
+    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
