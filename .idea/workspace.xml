@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY8&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q1_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q2_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q3_DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q4_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q6_Time.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY9&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q6_CoinToss.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674526825906</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="&quot;JIU-JAVA-PREPARE DAY9&quot;">
+      <created>1675148749315</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675148749315</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +300,8 @@
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY6&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY7&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
+    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY9&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;JIU-JAVA-PREPARE DAY9&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
