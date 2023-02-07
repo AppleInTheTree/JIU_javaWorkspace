@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="&quot;JIU-JAVA-PREPARE DAY9&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week2/Q6_CoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q1_VowelsConosonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675148749315</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="&quot;JIU-JAVA-PREPARE DAY9&quot;">
+      <created>1675149685071</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675149685071</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
