@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week3 question1&#10;Solve the problem one">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q2_PhoneKeyPad.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week3 question2&#10;Solve the problem two">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q3_SSN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -290,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675740734765</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Feat: Add week3 question2&#10;Solve the problem two">
+      <created>1675742596303</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675742596303</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +323,8 @@
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY9&quot;" />
     <MESSAGE value="Feat: Add week3 question1&#10;Solve the problem one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week3 question1&#10;Solve the problem one" />
+    <MESSAGE value="Feat: Add week3 question2&#10;Solve the problem two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week3 question2&#10;Solve the problem two" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
