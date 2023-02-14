@@ -1,4 +1,4 @@
-package ac.jiu.java.practice;
+package ac.jiu.java.practice.week1;
 import java.util.Scanner;
 
 public class Q5_StringDoubleInt {

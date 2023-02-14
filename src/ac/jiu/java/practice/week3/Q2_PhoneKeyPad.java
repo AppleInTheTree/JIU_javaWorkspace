@@ -7,6 +7,11 @@ public class Q2_PhoneKeyPad {
         String input = scan.next();
         char first_letter = input.charAt(0);
 
+
+
+        String randaom = "hi my name is Danial";
+        char a = Character.toUpperCase(randaom.charAt(3));
+
         int digit = 0;
         if (!Character.isLetter(first_letter)) {
             System.out.println("It is not a letter");
@@ -65,3 +70,5 @@ public class Q2_PhoneKeyPad {
 
     }
 }
+
+

@@ -1,4 +1,4 @@
-package ac.jiu.java.practice;
+package ac.jiu.java.practice.week1;
 import java.util.Scanner;
 public class Q6_CalculateEnergy {
     public static void main(String[] args) {

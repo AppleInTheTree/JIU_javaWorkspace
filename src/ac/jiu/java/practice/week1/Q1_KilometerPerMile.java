@@ -1,4 +1,4 @@
-package ac.jiu.java.practice;
+package ac.jiu.java.practice.week1;
 
 public class Q1_KilometerPerMile {
 

@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week3 question3&#10;Solve the problem three">
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q3_SSN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q3_SSN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/one/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/ds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q1_FactorsOfAnInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q2_OddsPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q1_KilometerPerMile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q1_KilometerPerMile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q2_KilometerPerMileInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q2_KilometerPerMileInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q3_MultheDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q3_MultheDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q4_PrintInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q4_PrintInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q5_StringDoubleInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q5_StringDoubleInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/Q6_CalculateEnergy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week1/Q6_CalculateEnergy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q2_PhoneKeyPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week3/Q2_PhoneKeyPad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675745385292</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Feat: Add week3 question3&#10;Solve the problem three">
+      <created>1675745578974</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675745578974</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
