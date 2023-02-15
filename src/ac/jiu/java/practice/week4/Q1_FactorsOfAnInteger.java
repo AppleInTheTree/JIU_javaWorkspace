@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Q1_FactorsOfAnInteger {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        boolean even = false;
+        System.out.println((true) && (3>=4));
 
         System.out.println("Enter a integer: ");
         int input = scan.nextInt();
@@ -20,6 +22,5 @@ public class Q1_FactorsOfAnInteger {
             }
         }
         System.out.print(input + ".");
-
     }
 }
