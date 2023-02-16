@@ -16,6 +16,7 @@ public class Q3_LongestCommonPrefix {
             prefix += stringFirst.charAt(index);
             index++;
         }
+
         if (prefix.length() != 0) {
             System.out.println("The common prefix is " + prefix);
         }
