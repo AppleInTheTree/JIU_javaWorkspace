@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week4 questions&#10;Solve the problem three">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment5/Q3_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment5 questions&#10;Solve the problem three">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment5/Q1_PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment5/Q2_PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q3_LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q3_LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676448176425</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Feat: Add assignment5 questions&#10;Solve the problem three">
+      <created>1676550691738</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676550691738</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +371,8 @@
     <MESSAGE value="Feat: Add week3 question3&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add week4 questions&#10;Solve the problem one and two" />
     <MESSAGE value="Feat: Add week4 questions&#10;Solve the problem three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week4 questions&#10;Solve the problem three" />
+    <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment5 questions&#10;Solve the problem three" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
