@@ -13,7 +13,7 @@ public class Q1_CelsiusToFahrenheit {
         System.out.println("-------------------------------------------");
         double celsius = 40.0;
         double fahrenheit = 120.0;
-        for (int i = 0; i < 9; i++) {
+        for (int i = 0; i < 10; i++) {
             //System.out.println(celsius - i + "    " + celsiusToFahrenheit(celsius - i) + "    " + (fahrenheit - (i*10)) + "         " + fahrenheitToCelsius((fahrenheit - (i*10))));
             System.out.printf("%-8.1f     %-8.1f|   %-8.1f     %-8.1f \n", celsius - i, celsiusToFahrenheit(celsius - i), (fahrenheit - (i*10)), fahrenheitToCelsius((fahrenheit - (i*10))));
         }

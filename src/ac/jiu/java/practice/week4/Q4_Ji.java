@@ -4,33 +4,18 @@ import java.util.Scanner;
 
 public class Q4_Ji {
     public static void main(String[] args) {
-        //System.out.println(xMethod(5));
-        System.out.println(max(2.2, 2));
-
+        int[] oldList = {1, 2, 3, 4, 5};
+        reverse(oldList);
+        for (int i = 0; i < oldList.length; i++)
+            System.out.print(oldList[i] + " ");
     }
-
-    public static double max(int num1, double num2) {
-        System.out.println("max(int, double) is invoked");
-
-        if (num1 > num2)
-            return num1;
-        else
-            return num2;
-    }
-    public static double max(double num1, int num2) {
-        System.out.println("max(int, double) is invoked");
-
-        if (num1 > num2)
-            return num1;
-        else
-            return num2;
-    }
-    public static int xMethod(int n, long l) {
-        System.out.println("int");
-        return n;
-    }
-    public static long xMethod(long n) {
-        System.out.println("long");
-        return n;
+    public static void reverse(int[] list) {
+        int[] newList = new int[list.length];
+        for (int i = 0; i < list.length; i++) {
+            newList[i] = list[list.length - 1 - i];
+        }
+        list = newList;
+        for (int i = 0; i < list.length; i++)
+        System.out.println(list[i]);
     }
 }

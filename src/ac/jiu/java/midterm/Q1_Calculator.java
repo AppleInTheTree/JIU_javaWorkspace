@@ -2,8 +2,8 @@ package ac.jiu.java.midterm;
 import java.util.Scanner;
 public class Q1_Calculator {
 
-    // 자바의 Math모듈 메소드 실제로 구현해보기
-    // 평균, max, min, 숫자의 유니코드 합 반환
+    // 자바의 Math 모듈 메소드 실제로 구현해보기
+    // 평균, max, min, power
 
 
     public static void main(String[] args) {
