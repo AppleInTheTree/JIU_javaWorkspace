@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week5/Q1_ReversedNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week5/Q2_SortedThreeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week5/Q3_CountLetterInString.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q1_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentOneFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment1/AssignmentOneFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentTwoOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment1/AssignmentTwoOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/AssignmentTwoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment1/AssignmentTwoTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/HomeworkTwoPone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment1/HomeworkTwoPone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -355,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676893861979</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3">
+      <created>1676966818745</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966818745</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -388,7 +399,8 @@
     <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem 1&amp;2" />
     <MESSAGE value="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2" />
+    <MESSAGE value="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -25,6 +25,7 @@ public class Q2_RulesForPasswords {
         }
 
     }
+
     public static boolean isLengthValid(String password, int validLength) {
         if (validLength < 8) {
             return false;

@@ -1,4 +1,4 @@
-package ac.jiu.java.homework;
+package ac.jiu.java.homework.assignment1;
 import java.util.Scanner;
 public class AssignmentTwoTwo {
     public static void main(String[] args) {

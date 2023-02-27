@@ -1,4 +1,4 @@
-package ac.jiu.java.homework;
+package ac.jiu.java.homework.assignment1;
 
 public class HomeworkTwoPone {
     public static void main(String[] args) {

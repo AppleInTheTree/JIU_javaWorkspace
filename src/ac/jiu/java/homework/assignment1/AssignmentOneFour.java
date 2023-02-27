@@ -1,4 +1,4 @@
-package ac.jiu.java.homework;
+package ac.jiu.java.homework.assignment1;
 
 import com.sun.xml.internal.bind.v2.runtime.reflect.opt.Const;
 
