@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add midterm problem">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment7/Q1_RandomArray.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment7 problem">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week6/Q1_ReturningMinimum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q1_CelsiusToFahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q1_CelsiusToFahrenheit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q1_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q1_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week4/Q4_Ji.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677486380957</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Feat: Add assignment7 problem">
+      <created>1677513177641</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677513177641</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +417,8 @@
     <MESSAGE value="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3" />
     <MESSAGE value="Feat: Add midterm package" />
     <MESSAGE value="Feat: Add midterm problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add midterm problem" />
+    <MESSAGE value="Feat: Add assignment7 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment7 problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
