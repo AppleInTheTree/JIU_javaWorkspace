@@ -11,6 +11,7 @@ public class Q1_ReturningMinimum {
             double number = scanner.nextDouble();
             list[i] = number;
 
+
         };
         double mimNumber = min(list);
         System.out.println(mimNumber);
