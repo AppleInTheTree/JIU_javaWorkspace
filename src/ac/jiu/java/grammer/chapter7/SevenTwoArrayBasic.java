@@ -1,6 +1,6 @@
 package ac.jiu.java.grammer.chapter7;
 
-public class Array_Random_Shuffling {
+public class SevenTwoArrayBasic {
     public static void main(String[] args) {
         int[] list = new int[10];
         // Random shuffling
