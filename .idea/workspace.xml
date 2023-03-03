@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Chapter7 docs">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SevenThreeAnalyzingNumber.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Chapter7.3 docs">
+      <change afterPath="$PROJECT_DIR$/OOP-Midterm.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q2_CharPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/Array_Random_Shuffling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SevenTwoArrayBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q1_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/midterm/Q1_Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -396,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677769677591</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Feat: Add Chapter7.3 docs">
+      <created>1677771209026</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1677771209026</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +443,8 @@
     <MESSAGE value="Feat: Add assignment7 problem" />
     <MESSAGE value="Feat: Add week6 problem" />
     <MESSAGE value="Feat: Add Chapter7 docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Chapter7 docs" />
+    <MESSAGE value="Feat: Add Chapter7.3 docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Chapter7.3 docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

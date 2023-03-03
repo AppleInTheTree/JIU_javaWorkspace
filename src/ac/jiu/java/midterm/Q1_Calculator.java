@@ -8,15 +8,16 @@ public class Q1_Calculator {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter your first number: ");
+        System.out.print("Enter your first number: ");
         double input1 = scanner.nextDouble();
-        System.out.println("Enter your second number: ");
+        System.out.print("Enter your second number: ");
         double input2 = scanner.nextDouble();
 
-        System.out.println(power(input1, input2));
-        System.out.println(avg(input1, input2));
-        System.out.println(max(input1, input2));
-        System.out.println(min(input1, input2));
+        System.out.printf("Power of two number : %.2f", power(input1, input2));
+        System.out.println();
+        //System.out.println("Average of two numbers :" + avg(input1, input2));
+        System.out.println("Max of two number : " + max(input1, input2));
+        System.out.println("Min of the number : " + min(input1, input2));
 
 
     }
