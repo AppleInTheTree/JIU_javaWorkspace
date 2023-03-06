@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Midterm problems">
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Chapter7-7 problems">
       <change afterPath="$PROJECT_DIR$/OOP-Midterm.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SevenFourBlackjack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SevenSevenReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/ArgsCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/ArgsCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/Array.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/BlackjackPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/ReverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SearchingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter7/SortingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -411,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677810929872</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Feat: Add Chapter7-7 problems">
+      <created>1677849858650</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1677849858650</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,7 +439,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;preparing java class&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY2&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY3&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY4&quot;" />
@@ -452,7 +463,8 @@
     <MESSAGE value="Feat: Add Chapter7 docs" />
     <MESSAGE value="Feat: Add Chapter7.3 docs" />
     <MESSAGE value="Feat: Add Midterm problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Midterm problems" />
+    <MESSAGE value="Feat: Add Chapter7-7 problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Chapter7-7 problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
