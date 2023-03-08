@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Chapter7 docs">
-      <change afterPath="$PROJECT_DIR$/OOP-Midterm.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter8/FindNearestPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter8/Introduction.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Midterm docs">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter8/CheckSudokuSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -425,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678079309097</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Feat: Add Chapter8 docs">
+      <created>1678180500611</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1678180500611</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Feat: Add Midterm docs">
+      <created>1678180514181</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1678180514181</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -441,8 +453,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY2&quot;" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY3&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY4&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY5&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY6&quot;" />
@@ -466,7 +476,9 @@
     <MESSAGE value="Feat: Add Midterm problems" />
     <MESSAGE value="Feat: Add Chapter7-7 problems" />
     <MESSAGE value="Feat: Add Chapter7 docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Chapter7 docs" />
+    <MESSAGE value="Feat: Add Chapter8 docs" />
+    <MESSAGE value="Feat: Add Midterm docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Midterm docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
