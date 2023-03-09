@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Midterm docs">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter8/CheckSudokuSolution.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add chapter8 sudoku prob">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/BasicGrammer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -437,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678180514181</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Feat: Add chapter8 sudoku prob">
+      <created>1678247209545</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1678247209545</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY4&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY5&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY6&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY7&quot;" />
@@ -478,7 +484,8 @@
     <MESSAGE value="Feat: Add Chapter7 docs" />
     <MESSAGE value="Feat: Add Chapter8 docs" />
     <MESSAGE value="Feat: Add Midterm docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Midterm docs" />
+    <MESSAGE value="Feat: Add chapter8 sudoku prob" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add chapter8 sudoku prob" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
