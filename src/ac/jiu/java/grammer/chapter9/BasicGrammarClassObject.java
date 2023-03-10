@@ -10,6 +10,10 @@ public class BasicGrammarClassObject {
         Circle circle2 = new Circle(2);
         System.out.println(circle2.getArea());
 
+        // null을 할당함으로 메모리를 관리한다
+        circle2 = circle1;
+        circle2 = null;
+
     }
 }
 

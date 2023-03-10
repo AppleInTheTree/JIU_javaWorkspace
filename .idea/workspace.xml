@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add chapter8 sudoku prob">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/BasicGrammer.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add chapter9 grammar docs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/BasicGrammarClassObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/BasicGrammarClassObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00001" summary="&quot;preparing java class&quot;">
-      <created>1673855684762</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1673855684762</updated>
     </task>
     <task id="LOCAL-00002" summary="&quot;preparing java class&quot;">
       <created>1673855973867</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678247209545</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Feat: Add chapter9 grammar docs">
+      <created>1678337098442</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1678337098443</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY5&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY6&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY7&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
@@ -485,7 +484,8 @@
     <MESSAGE value="Feat: Add Chapter8 docs" />
     <MESSAGE value="Feat: Add Midterm docs" />
     <MESSAGE value="Feat: Add chapter8 sudoku prob" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add chapter8 sudoku prob" />
+    <MESSAGE value="Feat: Add chapter9 grammar docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add chapter9 grammar docs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
