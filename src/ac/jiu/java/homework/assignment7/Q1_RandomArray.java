@@ -5,7 +5,7 @@ public class Q1_RandomArray {
         int[] myList = new int[30];
 
         for (int i = 0; i < myList.length; i++) {
-            myList[i] = (int)(Math.random() * 21);
+            myList[i] = 1 + (int)(Math.random() * 20);
 
             if (i == 15)
                 System.out.println();
