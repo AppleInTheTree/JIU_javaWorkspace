@@ -23,10 +23,10 @@ class Circle {
 
     Circle() {
         radius = 1;
-    }
+    } // 생성자
     Circle(double newRadius) {
         radius = newRadius;
-    }
+    } // 생성자
 
     public double getArea() {
         return radius * radius * Math.PI;

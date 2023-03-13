@@ -1,7 +1,6 @@
 package ac.jiu.java.midterm;
 import java.util.*;
-
-public class Q2_CharPractice {
+ public class Q2_CharPractice {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -18,7 +17,7 @@ public class Q2_CharPractice {
 
     }
 
-    public static boolean validate(String letters) {
+    private static boolean validate(String letters) {
         for (int i = 0; i < (letters.length()/2); i++) {
             if (letters.charAt(i) != letters.charAt(letters.length() - (i + 1))) {
                 return false;
