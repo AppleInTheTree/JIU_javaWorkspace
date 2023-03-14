@@ -85,7 +85,7 @@ public class Q2_LinearBinaryCompare {
         int low = 0;
         int high = numLists.length - 1;
 
-        while (low < high) {
+        while (high >= low) {
             int mid  = (low + high) / 2;
 
             if (num == numLists[mid]) {
@@ -98,7 +98,7 @@ public class Q2_LinearBinaryCompare {
                 low = mid + 1;
             }
         }
-        return -low -1;
+        return -low - 1;
     }
 
 
