@@ -14,8 +14,13 @@ public class Q1_SortingEliminate {
         }
 
 
-
-        for (int i : eliminateDuplicate(selectionSort(unSortedArray))) {
+        // 내린차순 정렬 후 제
+//        for (int i : eliminateDuplicate(selectionSort(unSortedArray))) {
+//            if (i != 0)
+//                System.out.print(" " + i);
+//        }
+        // 오른차순 정렬 print
+        for (int i : (maxSort(unSortedArray))) {
             if (i != 0)
                 System.out.print(" " + i);
         }
@@ -70,4 +75,24 @@ public class Q1_SortingEliminate {
         return setArray;
 
     }
+
+    public static int[] maxSort(int[] unSortedArray) {
+        for (int i = 0; i < unSortedArray.length  - 1; i++) {
+            int maxValue = unSortedArray[i];
+            int maxIndex = i;
+            for (int j = i + 1; j < unSortedArray.length; j++) {
+                if (maxValue < unSortedArray[j]) {
+                    maxIndex = j;
+                    maxValue = unSortedArray[j];
+                }
+            }
+
+            if (maxIndex != i) {
+                unSortedArray[maxIndex] = unSortedArray[i];
+                unSortedArray[i] = maxValue;
+            }
+        }
+        return unSortedArray;
+     }
+
 }
