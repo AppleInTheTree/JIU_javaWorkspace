@@ -19,7 +19,12 @@ public class Q2_LinearBinaryCompare {
 
         System.out.println("Iteration" + "  Key " + "       Timer(Linear) " + " Result(Linear) " +
                 " Time(Binary)" + "   Result(Binary) ");
-        System.out.println("------------------------------------------------------------------------------");
+//        System.out.println("------------------------------------------------------------------------------");
+        for (int i = 0; i < 92; i++) {
+            System.out.print("-");
+        }
+        System.out.println();
+
 
         for (int i = 0; i <= 10; i++) {
             int randNum = numLists[(int)(Math.random() * sortList.length)];
@@ -32,13 +37,15 @@ public class Q2_LinearBinaryCompare {
             long endTimeBinary = System.nanoTime();
 
 
-            long executionTimeLinear =endTimeLinear - startTimeLinear;
+            long executionTimeLinear = endTimeLinear - startTimeLinear;
             long executionTimeBinary = endTimeBinary - startTimeBinary;
 
 //            System.out.printf(i + "  " + randNum + "  " +
 //                    executionTimeLinear + "  " + indexLinear + " | " + executionTimeBinary + "  " + binaryLinear);
             System.out.printf("%-9d %-15d %-15d %-15d %-15d %-15d",i, randNum, executionTimeLinear, indexLinear, executionTimeBinary, binaryLinear);
             System.out.println();
+
+
             averageLinear += executionTimeLinear;
             averageBinary += executionTimeBinary;
         }
