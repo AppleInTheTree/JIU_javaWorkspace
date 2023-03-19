@@ -3,6 +3,7 @@ package ac.jiu.java.grammer.chapter9;
 public class reallyTest {
     public static void main(String[] args) {
         mutableTest mutable = new mutableTest();
+        mutableTest mutable2 = new mutableTest(5);
 
        int[] array = mutable.getValues();
         System.out.println(array);
