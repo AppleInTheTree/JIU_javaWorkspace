@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week8 problem">
-      <change afterPath="$PROJECT_DIR$/Java Data Structures Books.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/VectorCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/multiplyMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/mutableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/mutableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/reallyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/reallyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._01_HelloWorld">
+  <component name="RunManager">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -102,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00009" summary="&quot;preparing java class&quot;">
-      <created>1673863099644</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1673863099644</updated>
     </task>
     <task id="LOCAL-00010" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
       <created>1673926673417</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679061527360</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Feat: Add week8 problem">
+      <created>1679237863051</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1679237863051</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

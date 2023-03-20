@@ -13,7 +13,7 @@ public class mutableTest {
 
     public static int number;
 
-    // 생성사
+    // 생성자
     mutableTest(int number) {
         this.number = number;
     }
