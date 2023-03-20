@@ -1,7 +1,7 @@
 package ac.jiu.java.homework.assignment8;
 import java.util.*;
 
-public class VectorCalculation {
+public class Q1_VectorCalculation {
     public static void main(String[] args) {
 
         double[][] fourMatrix = new double[4][4];

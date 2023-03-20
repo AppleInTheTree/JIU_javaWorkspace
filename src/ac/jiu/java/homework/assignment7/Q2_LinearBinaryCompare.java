@@ -88,6 +88,28 @@ public class Q2_LinearBinaryCompare {
         return -1;
     }
 
+//    public static int binarySearch2(int[] numLists, int randKey) {
+//
+//        int low = 0;
+//        int high = numLists.length - 1;
+//
+//        while (high >= low) {
+//            int mid = (low + high) / 2;
+//
+//            if (randKey == numLists[mid]) {
+//                return mid;
+//            }
+//            else if (randKey < numLists[mid]) {
+//                high = mid - 1;
+//            }
+//            else {
+//                low = mid + 1;
+//            }
+//        }
+//        return -low -1;
+//
+//    }
+
     public static int binarySearch(int[] numLists, int num) {
         int low = 0;
         int high = numLists.length - 1;

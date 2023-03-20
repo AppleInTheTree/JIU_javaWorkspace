@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week8 problem">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/VectorCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/multiplyMatrix.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment8 problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/mutableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter9/mutableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment7/Q2_LinearBinaryCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment7/Q2_LinearBinaryCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/VectorCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q1_VectorCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/multiplyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q2_MultiplyMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00010" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
-      <created>1673926673417</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1673926673418</updated>
     </task>
     <task id="LOCAL-00011" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
       <created>1673939680550</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679237863051</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Feat: Add assignment8 problem">
+      <created>1679303293050</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1679303293051</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY8&quot;" />
     <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY9&quot;" />
     <MESSAGE value="Feat: Add week3 question1&#10;Solve the problem one" />
     <MESSAGE value="Feat: Add week3 question2&#10;Solve the problem two" />
@@ -487,7 +486,8 @@
     <MESSAGE value="Feat: Add chapter9 grammar docs" />
     <MESSAGE value="Feat: Add assignment 7-2 problem" />
     <MESSAGE value="Feat: Add week8 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week8 problem" />
+    <MESSAGE value="Feat: Add assignment8 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment8 problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
