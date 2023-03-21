@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment8 problem">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q1_SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q3_IdenticalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment7/Q2_LinearBinaryCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment7/Q2_LinearBinaryCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/VectorCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q1_VectorCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/multiplyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q2_MultiplyMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.multi">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -86,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="multi" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi" />
+      <module name="javaWorkspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application._01_HelloWorld" />
@@ -102,13 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
-      <created>1673939680550</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1673939680550</updated>
     </task>
     <task id="LOCAL-00012" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
       <created>1673940498640</created>
@@ -446,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679303293051</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Feat: Add assignment8 problem">
+      <created>1679317120247</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1679317120248</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
