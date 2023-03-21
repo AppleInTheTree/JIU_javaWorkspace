@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment8 problem">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q1_SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q3_IdenticalArray.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week9 problem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q3_IdenticalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Q3_IdenticalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.multi">
+  <component name="RunManager">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -85,13 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multi" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi" />
-      <module name="javaWorkspace" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application._01_HelloWorld" />
@@ -108,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00012" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
-      <created>1673940498640</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1673940498640</updated>
     </task>
     <task id="LOCAL-00013" summary="&quot;JIU-JAVA-PREPARE DAY2&quot;">
       <created>1673949346253</created>
@@ -452,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679317120248</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Feat: Add week9 problem">
+      <created>1679375896553</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1679375896554</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="&quot;JIU-JAVA-PREPARE DAY9&quot;" />
     <MESSAGE value="Feat: Add week3 question1&#10;Solve the problem one" />
     <MESSAGE value="Feat: Add week3 question2&#10;Solve the problem two" />
     <MESSAGE value="Feat: Add week3 question3&#10;Solve the problem three" />
@@ -493,7 +484,8 @@
     <MESSAGE value="Feat: Add assignment 7-2 problem" />
     <MESSAGE value="Feat: Add week8 problem" />
     <MESSAGE value="Feat: Add assignment8 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment8 problem" />
+    <MESSAGE value="Feat: Add week9 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week9 problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
