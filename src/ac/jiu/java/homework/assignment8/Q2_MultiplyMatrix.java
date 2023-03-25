@@ -97,7 +97,7 @@ public class Q2_MultiplyMatrix {
 
     }
 
-    // N 하고 P가 다를때 고치기
+    // N 하고 P가 다를때 고치기 (완료)
     public static double[][] multiplyMatrix(double[][] a, double[][] b) {
         double[][] mulMatrix = new double[a.length][b[0].length];
 

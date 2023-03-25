@@ -101,13 +101,6 @@
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
     </task>
-    <task id="LOCAL-00016" summary="&quot;JIU-JAVA-PREPARE DAY3&quot;">
-      <created>1674033718888</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1674033718888</updated>
-    </task>
     <task id="LOCAL-00017" summary="&quot;JIU-JAVA-PREPARE DAY3&quot;">
       <created>1674036703754</created>
       <option name="number" value="00017" />
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679583266911</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Feat: Add test3 practice">
+      <created>1679651816098</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1679651816099</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
