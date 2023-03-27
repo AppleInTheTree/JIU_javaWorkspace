@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add test3 practice">
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Revise Q2_MultiplyMatrix">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/AirConditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q2_MultiplyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment8/Q2_MultiplyMatrix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00017" summary="&quot;JIU-JAVA-PREPARE DAY3&quot;">
-      <created>1674036703754</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1674036703754</updated>
     </task>
     <task id="LOCAL-00018" summary="&quot;JIU-JAVA-PREPARE DAY4&quot;">
       <created>1674093221455</created>
@@ -444,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679651816099</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Feat: Revise Q2_MultiplyMatrix">
+      <created>1679714426163</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1679714426164</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add week3 question3&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add week4 questions&#10;Solve the problem one and two" />
     <MESSAGE value="Feat: Add week4 questions&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem three" />
@@ -485,7 +485,8 @@
     <MESSAGE value="Feat: Add week9 problem" />
     <MESSAGE value="Feat: Add grammer practice" />
     <MESSAGE value="Feat: Add test3 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add test3 practice" />
+    <MESSAGE value="Feat: Revise Q2_MultiplyMatrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Revise Q2_MultiplyMatrix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
