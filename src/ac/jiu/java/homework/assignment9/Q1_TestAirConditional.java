@@ -13,6 +13,7 @@ public class Q1_TestAirConditional {
         conditioner2.setSpeed(3);
         conditioner2.setOn(true);
         conditioner2.setOn(false);
+
         //Display
         System.out.println(conditioner1.toString());
         System.out.println(conditioner2.toString());

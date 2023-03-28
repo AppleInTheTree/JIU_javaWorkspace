@@ -10,6 +10,7 @@ public class Q2_Car {
         car1.setWeight(100);
         car1.setPowerOn(true);
 
+
         car2.setColor("BLACK");
         car2.setWeight(200);
         car2.setSpeed(3);
