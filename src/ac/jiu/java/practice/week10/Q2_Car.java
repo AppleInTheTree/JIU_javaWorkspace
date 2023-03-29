@@ -4,6 +4,7 @@ public class Q2_Car {
     public static void main(String[] args) {
         Car car1 = new Car();
         Car car2 = new Car();
+        Car car3 = new Car(100,2,"ORANGE",true);
 
         car1.setColor("ORANGE");
         car1.setSpeed(2);
@@ -71,6 +72,13 @@ class Car {
     }
     Car() {
     }
+
+    Car(int weight, int speed, String color, boolean powerOn) {
+        this.weight = weight;
+        this.speed = speed;
+        this.color = color;
+        this.powerOn = powerOn;
+    }
     public double getSpeedViolation() {
         if (this.speed == LOW) {
             return 1;
@@ -89,5 +97,6 @@ class Car {
             return "Car weight: " + this.weight + " color of the car: " + this.color + ", Power is off";
         }
     }
+
 
 }
