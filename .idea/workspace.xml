@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment9 problem">
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week10 problem">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q217_ContainsDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week10/Q2_Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week10/Q2_Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00021" summary="&quot;JIU-JAVA-PREPARE DAY5&quot;">
-      <created>1674189059406</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1674189059406</updated>
     </task>
     <task id="LOCAL-00022" summary="&quot;JIU-JAVA-PREPARE DAY6&quot;">
       <created>1674401879745</created>
@@ -445,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679991481802</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Feat: Add week10 problem">
+      <created>1680094888207</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1680094888207</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add week4 questions&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem three" />
     <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem 1&amp;2" />
     <MESSAGE value="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2" />
@@ -486,7 +484,8 @@
     <MESSAGE value="Feat: Add test3 practice" />
     <MESSAGE value="Feat: Revise Q2_MultiplyMatrix" />
     <MESSAGE value="Feat: Add assignment9 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment9 problem" />
+    <MESSAGE value="Feat: Add week10 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week10 problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
