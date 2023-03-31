@@ -1,4 +1,6 @@
 package ac.jiu.java.leetcode;
+
+import javax.swing.*;
 import java.util.*;
 public class Q217_ContainsDuplicate {
     public static void main(String[] args) {
@@ -6,11 +8,25 @@ public class Q217_ContainsDuplicate {
 
         System.out.println(check(array));
 
+        System.out.println(checkWithArray(array));
+
 
 
 
 
     }
+    public static boolean checkWithArray(int[] array) {
+        Arrays.sort(array);
+        for (int i = 0; i < array.length - 1; i++) {
+            for (int j = i + 1; j < array.length; j++) {
+                if(array[i] == array[j]) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
     public static boolean check(int[] array) {
 
         for (int i = 0; i < array.length - 1; i++) {
