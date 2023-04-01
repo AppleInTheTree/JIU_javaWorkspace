@@ -1,6 +1,5 @@
 package ac.jiu.java.leetcode;
 
-import javax.swing.*;
 import java.util.*;
 public class Q217_ContainsDuplicate {
     public static void main(String[] args) {
