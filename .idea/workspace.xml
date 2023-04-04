@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add leetcode 291 question">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add leetcode 53 &amp; 1 question">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q53_MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q53_MaximumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,13 +103,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00026" summary="&quot;JIU-JAVA-PREPARE DAY9&quot;">
-      <created>1675149685071</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1675149685071</updated>
     </task>
     <task id="LOCAL-00027" summary="Feat: Add week3 question1&#10;Solve the problem one">
       <created>1675740734765</created>
@@ -445,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680430133695</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Feat: Add leetcode 53 &amp; 1 question">
+      <created>1680492188078</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1680492188078</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add assignment5 questions&#10;Solve the problem 1&amp;2" />
     <MESSAGE value="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2" />
     <MESSAGE value="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3" />
     <MESSAGE value="Feat: Add midterm package" />
@@ -486,7 +487,8 @@
     <MESSAGE value="Feat: Add assignment9 problem" />
     <MESSAGE value="Feat: Add week10 problem" />
     <MESSAGE value="Feat: Add leetcode 291 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add leetcode 291 question" />
+    <MESSAGE value="Feat: Add leetcode 53 &amp; 1 question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add leetcode 53 &amp; 1 question" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
