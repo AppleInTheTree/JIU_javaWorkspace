@@ -7,6 +7,7 @@ public class Animal {
     Animal(String name, String sound) {
         this.name = name;
         this.sound = sound;
+
     }
 
     public String getName() {
@@ -17,6 +18,6 @@ public class Animal {
         return this.sound;
     }
     public void makeSound() {
-        System.out.println(sound);
+        System.out.println(name + " says " + sound);
     }
 }
