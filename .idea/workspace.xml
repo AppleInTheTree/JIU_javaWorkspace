@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add leetcode 53 &amp; 1 question">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment 10 solution">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/TestZoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" afterDir="false" />
     </list>
@@ -47,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._01_HelloWorld">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -103,20 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Feat: Add week3 question1&#10;Solve the problem one">
-      <created>1675740734765</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1675740734765</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Feat: Add week3 question2&#10;Solve the problem two">
-      <created>1675742596303</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1675742596303</updated>
     </task>
     <task id="LOCAL-00029" summary="Feat: Add week3 question3&#10;Solve the problem three">
       <created>1675744913346</created>
@@ -447,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680492188078</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Feat: Add assignment 10">
+      <created>1680574882959</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1680574882960</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Feat: Add assignment 10 solution">
+      <created>1680584561801</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584561801</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,8 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add assignment6 questions&#10;Solve the problem 1&amp;2" />
-    <MESSAGE value="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3" />
     <MESSAGE value="Feat: Add midterm package" />
     <MESSAGE value="Feat: Add midterm problem" />
     <MESSAGE value="Feat: Add assignment7 problem" />
@@ -488,7 +487,9 @@
     <MESSAGE value="Feat: Add week10 problem" />
     <MESSAGE value="Feat: Add leetcode 291 question" />
     <MESSAGE value="Feat: Add leetcode 53 &amp; 1 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add leetcode 53 &amp; 1 question" />
+    <MESSAGE value="Feat: Add assignment 10" />
+    <MESSAGE value="Feat: Add assignment 10 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment 10 solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,6 +1,6 @@
 package ac.jiu.java.homework.assignment10;
 
-public class TestZoo {
+public class Q1_TestZoo {
     public static void main(String[] args) {
         // Create a few Animal objects
         Animal lion = new Animal("Lion", "Roar");
