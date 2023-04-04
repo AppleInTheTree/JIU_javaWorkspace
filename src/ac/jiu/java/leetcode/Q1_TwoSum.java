@@ -51,7 +51,9 @@ public class Q1_TwoSum {
                 return new int[] {left, right};
             }
         }
-        return new int[] {left, right};
+//        return new int[] {left, right};
+        // Return an empty array to indicate that no such pair exists.
+        return new int[] {};
 
     }
 }
