@@ -6,6 +6,8 @@ public class Q1_TestZoo {
         Animal lion = new Animal("Lion", "Roar");
         Animal elephant = new Animal("Elephant", "Trumpet");
         Animal monkey = new Animal("Monkey", "Ooh ooh aah aah");
+        Animal cat = new Animal("Cat", "Meow");
+        Animal hippo = new Animal("Hippo", "Ah");
 
         // Create a new Zoo object
         Zoo zoo = new Zoo();
@@ -14,6 +16,8 @@ public class Q1_TestZoo {
         zoo.addAnimal(lion);
         zoo.addAnimal(elephant);
         zoo.addAnimal(monkey);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(hippo);
         // Get the list of animals in the Zoo and print their names
         Animal[] animals = zoo.getAnimals();
         System.out.println("The Zoo has the following animals:");

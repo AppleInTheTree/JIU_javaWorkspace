@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add assignment 10 solution">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/TestZoo.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Revise the main name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Q1_TestZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Q1_TestZoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment10/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment9/Q1_TestAirConditional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/leetcode/Q1_TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,27 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Feat: Add week3 question3&#10;Solve the problem three">
-      <created>1675744913346</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1675744913346</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Feat: Add week3 question3&#10;Solve the problem three">
-      <created>1675745385292</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1675745385292</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Feat: Add week3 question3&#10;Solve the problem three">
-      <created>1675745578974</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1675745578974</updated>
     </task>
     <task id="LOCAL-00032" summary="Feat: Add week4 questions&#10;Solve the problem one and two">
       <created>1676342013619</created>
@@ -448,7 +424,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680584561801</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Feat: Revise the line indentation">
+      <created>1680584691785</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584691785</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Feat: Revise the return statement">
+      <created>1680584710962</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584710962</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Feat: Revise the main name">
+      <created>1680584753134</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1680584753134</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,9 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add midterm package" />
-    <MESSAGE value="Feat: Add midterm problem" />
-    <MESSAGE value="Feat: Add assignment7 problem" />
     <MESSAGE value="Feat: Add week6 problem" />
     <MESSAGE value="Feat: Add Chapter7.3 docs" />
     <MESSAGE value="Feat: Add Midterm problems" />
@@ -489,7 +483,10 @@
     <MESSAGE value="Feat: Add leetcode 53 &amp; 1 question" />
     <MESSAGE value="Feat: Add assignment 10" />
     <MESSAGE value="Feat: Add assignment 10 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add assignment 10 solution" />
+    <MESSAGE value="Feat: Revise the line indentation" />
+    <MESSAGE value="Feat: Revise the return statement" />
+    <MESSAGE value="Feat: Revise the main name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Revise the main name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

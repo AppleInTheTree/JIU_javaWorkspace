@@ -13,7 +13,7 @@ public class Zoo {
 
     public void addAnimal(Animal animals) {
         this.animals[numAnimals] = animals;
-        numAnimals++;
+        this.numAnimals++;
     }
     public Animal[] getAnimals() {
         return this.animals;
@@ -22,6 +22,7 @@ public class Zoo {
         return this.numAnimals;
     }
     public void makeAllSounds() {
+        // Make a if statement for checking whether array is null or not
         for (int i = 0; i < animals.length; i++) {
             if (animals[i] != null) {
                 animals[i].makeSound();
