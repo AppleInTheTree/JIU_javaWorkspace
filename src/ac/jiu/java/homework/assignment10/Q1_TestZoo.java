@@ -18,6 +18,7 @@ public class Q1_TestZoo {
         zoo.addAnimal(monkey);
         zoo.addAnimal(cat);
         zoo.addAnimal(hippo);
+        zoo.addAnimal(lion);
         // Get the list of animals in the Zoo and print their names
         Animal[] animals = zoo.getAnimals();
         System.out.println("The Zoo has the following animals:");
