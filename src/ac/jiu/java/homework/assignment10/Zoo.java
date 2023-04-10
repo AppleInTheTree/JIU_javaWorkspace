@@ -1,14 +1,16 @@
 package ac.jiu.java.homework.assignment10;
+import java.util.*;
 
 public class Zoo {
 
     public int numAnimals = 0;
     public Animal[] animals;
+//    public ArrayList<Animal> animals = new ArrayList<Animal>();
+
 
     Zoo() {
         this.animals = new Animal[10];
         this.numAnimals = 0;
-
     }
 
     public void addAnimal(Animal animals) {
