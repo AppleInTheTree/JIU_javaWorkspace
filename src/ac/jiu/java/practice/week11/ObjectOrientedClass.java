@@ -1,4 +1,5 @@
 package ac.jiu.java.practice.week11;
+import java.lang.*;
 
 public class ObjectOrientedClass extends Course {
     // properties

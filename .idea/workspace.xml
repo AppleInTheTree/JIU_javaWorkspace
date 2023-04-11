@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week12 question">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/Testdsadasds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/Course.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add properties in Course &amp; ObjectOrientedClass">
       <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/ObjectOrientedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/ObjectOrientedClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +99,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Feat: Add week5 questions&#10;Solve the problem 1&amp;2&amp;3">
-      <created>1676966818745</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1676966818745</updated>
     </task>
     <task id="LOCAL-00038" summary="Feat: Add midterm package">
       <created>1677468965455</created>
@@ -446,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681134895950</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Feat: Add properties in Course &amp; ObjectOrientedClass">
+      <created>1681200507156</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1681200507157</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +459,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add Midterm problems" />
     <MESSAGE value="Feat: Add Chapter7-7 problems" />
     <MESSAGE value="Feat: Add Chapter7 docs" />
     <MESSAGE value="Feat: Add Chapter8 docs" />
@@ -487,7 +483,8 @@
     <MESSAGE value="Feat: Revise the main name" />
     <MESSAGE value="Feat: Add animal feature" />
     <MESSAGE value="Feat: Add week12 question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week12 question" />
+    <MESSAGE value="Feat: Add properties in Course &amp; ObjectOrientedClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add properties in Course &amp; ObjectOrientedClass" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,6 +493,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/jiu/java/practice/week11/ObjectOrientedClass.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
