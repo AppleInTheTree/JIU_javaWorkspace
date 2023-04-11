@@ -2,10 +2,11 @@ package ac.jiu.java.practice.week11;
 
 public class Test {
     public static void main(String[] args) {
-        Course course = new Course();
-        course.setMajor("IT");
-        course.setInstructor("Jihoon");
-        System.out.println(course.toString() + "\n" + "Please add specific course in " + course.getMajor());
+        Course courseIt = new Course();
+
+        courseIt.setMajor("IT");
+        courseIt.setInstructor("Jihoon");
+        System.out.println(courseIt.toString() + "\n" + "Please add specific courseIt in " + courseIt.getMajor());
 
         System.out.println();
 

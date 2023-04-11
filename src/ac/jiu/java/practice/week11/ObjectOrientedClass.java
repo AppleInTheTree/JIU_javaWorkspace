@@ -31,11 +31,9 @@ public class ObjectOrientedClass extends Course {
     public String getLecturer() {
         return this.lecturer;
     }
+    @Override
     public String toString() {
         return super.toString() + ", name of the course: " + getName() + ", lecturer: " + getLecturer() + ", isOnline: " + isOnline() +
                 ", number of students: " + getNumOfStudents() + ", classroom: " + getClassRoom();
     }
-
-
-
 }

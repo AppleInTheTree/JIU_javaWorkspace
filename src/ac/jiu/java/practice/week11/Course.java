@@ -13,6 +13,7 @@ public class Course {
     Course() {
         this.students = new ArrayList<>();
     }
+
     Course(String major, String instructor) {
         this();
         this.major = major;
