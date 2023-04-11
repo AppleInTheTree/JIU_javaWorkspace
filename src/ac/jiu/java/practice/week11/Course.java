@@ -6,12 +6,12 @@ public class Course {
     // properties
     private String major;
     private String instructor;
-    private ArrayList<String> students;
+    private final ArrayList<String> students;
     private int numOfStudents;
 
     //constructor
     Course() {
-        this.students = new ArrayList<String>();
+        this.students = new ArrayList<>();
     }
     Course(String major, String instructor) {
         this();
@@ -51,7 +51,7 @@ public class Course {
     }
 
     public String toString() {
-        return "You made a course which is major: " + this.major + ", Leader: " + this.instructor;
+        return "You made a course which is major: " + getMajor() + ", Leader: " + getInstructor();
     }
 
 

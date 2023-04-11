@@ -2,15 +2,16 @@ package ac.jiu.java.practice.week11;
 
 public class ObjectOrientedClass extends Course {
     // properties
-    private String name;
-    private boolean isOnline = false;
-    private String classRoom;
-    private String lecturer;
+    private final String name;
+    private final boolean  isOnline;
+    private final String classRoom;
+    private final String lecturer;
 
 
     // constructor
     ObjectOrientedClass(String major, String instructor, String name, boolean isOnline, String classRoom, String lecturer) {
         super(major, instructor);
+
         this.name = name;
         this.isOnline = isOnline;
         this.classRoom = classRoom;
