@@ -5,37 +5,44 @@ public class Course {
 
     // properties
     private String major;
-    private String instructor;
+    private String leader;
     private final ArrayList<String> students;
     private int numOfStudents;
+    private int credit;
 
     //constructor
     Course() {
         this.students = new ArrayList<>();
     }
 
-    Course(String major, String instructor) {
+    Course(String major, String leader, int credit) {
         this();
         this.major = major;
-        this.instructor = instructor;
+        this.leader = leader;
+        this.credit = credit;
     }
 
-    // method
+    // Accessors and mutators
     public String getMajor() {
         return this.major;
     }
     public void setMajor(String major) {
         this.major = major;
     }
-
-
-    public String getInstructor() {
-        return this.instructor;
+    public String getLeader() {
+        return this.leader;
     }
-    public void setInstructor(String instructor) {
-        this.instructor = instructor;
+    public void setLeader(String leader) {
+        this.leader = leader;
+    }
+    public int getCredit() {
+        return this.credit;
+    }
+    public void setCredit(int credit) {
+        this.credit = credit;
     }
 
+    // other function method
     public void addStudents(String students) {
         this.students.add(students);
         numOfStudents++;
@@ -52,7 +59,8 @@ public class Course {
     }
 
     public String toString() {
-        return "You made a course which is major: " + getMajor() + ", Leader: " + getInstructor();
+        return "You made a course which is major: " + getMajor() + ", Leader: " + getLeader() + ", credit: "
+                + getCredit();
     }
 
 

@@ -107,13 +107,6 @@
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
     </task>
-    <task id="LOCAL-00039" summary="Feat: Add midterm problem">
-      <created>1677486380957</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1677486380957</updated>
-    </task>
     <task id="LOCAL-00040" summary="Feat: Add assignment7 problem">
       <created>1677513177641</created>
       <option name="number" value="00040" />
@@ -450,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681200608644</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Feat: Add properties in Course &amp; ObjectOrientedClass">
+      <created>1681218372955</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1681218372956</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

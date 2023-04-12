@@ -4,14 +4,14 @@ import java.lang.*;
 public class ObjectOrientedClass extends Course {
     // properties
     private final String name;
-    private final boolean  isOnline;
+    private final boolean isOnline;
     private final String classRoom;
     private final String lecturer;
 
 
     // constructor
-    ObjectOrientedClass(String major, String instructor, String name, boolean isOnline, String classRoom, String lecturer) {
-        super(major, instructor);
+    ObjectOrientedClass(String major, String instructor, int credit, String name, boolean isOnline, String classRoom, String lecturer) {
+        super(major, instructor, credit);
 
         this.name = name;
         this.isOnline = isOnline;

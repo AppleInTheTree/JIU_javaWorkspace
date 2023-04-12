@@ -5,12 +5,12 @@ public class Test {
         Course courseIt = new Course();
 
         courseIt.setMajor("IT");
-        courseIt.setInstructor("Jihoon");
-        System.out.println(courseIt.toString() + "\n" + "Please add specific courseIt in " + courseIt.getMajor());
+        courseIt.setLeader("Jihoon");
+        System.out.println(courseIt + "\n" + "Please add specific courseIt in " + courseIt.getMajor());
 
         System.out.println();
 
-        ObjectOrientedClass oop = new ObjectOrientedClass("IT", "Jihoon", "Objected Oriented", false, "M302","Minjoo");
+        ObjectOrientedClass oop = new ObjectOrientedClass("IT", "Jihoon", 3, "Objected Oriented", false, "M302","Minjoo");
 
         oop.addStudents("Meisam");
         oop.addStudents("Raffin");
@@ -25,7 +25,7 @@ public class Test {
         oop.addStudents("Clay");
         oop.addStudents("Theo");
 
-        System.out.println(oop.toString());
+        System.out.println(oop +"\n");
         System.out.println("Members of the " + oop.getName() + "is following: ");
         oop.displayStudents();
     }
