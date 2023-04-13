@@ -1,8 +1,8 @@
 package ac.jiu.java.practice.week11;
 
-public class Test {
+public class Q1_CourseTest {
     public static void main(String[] args) {
-        Course courseIt = new Course();
+        Q1_Course courseIt = new Q1_Course();
 
         courseIt.setMajor("IT");
         courseIt.setLeader("Jihoon");
@@ -10,7 +10,7 @@ public class Test {
 
         System.out.println();
 
-        ObjectOrientedClass oop = new ObjectOrientedClass("IT", "Jihoon", 3, "Objected Oriented", false, "M302","Minjoo");
+        Q1_ObjectOrientedClass oop = new Q1_ObjectOrientedClass("IT", "Jihoon", 3, "Objected Oriented", false, "M302","Minjoo");
 
         oop.addStudents("Meisam");
         oop.addStudents("Raffin");

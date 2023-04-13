@@ -1,7 +1,7 @@
 package ac.jiu.java.practice.week11;
 import java.util.*;
 
-public class Course {
+public class Q1_Course {
 
     // properties
     private String major;
@@ -11,11 +11,11 @@ public class Course {
     private int credit;
 
     //constructor
-    Course() {
+    Q1_Course() {
         this.students = new ArrayList<>();
     }
 
-    Course(String major, String leader, int credit) {
+    Q1_Course(String major, String leader, int credit) {
         this();
         this.major = major;
         this.leader = leader;
