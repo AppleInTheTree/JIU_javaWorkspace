@@ -6,7 +6,7 @@ public class Q1_Course {
     // properties
     private String major;
     private String leader;
-    private final ArrayList<String> students;
+    public final ArrayList<String> students;
     private int numOfStudents;
     private int credit;
 
@@ -40,6 +40,10 @@ public class Q1_Course {
     }
     public void setCredit(int credit) {
         this.credit = credit;
+    }
+
+    public ArrayList<String> getStudents() {
+        return students;
     }
 
     // other function method
