@@ -10,7 +10,7 @@ public class Q1_CourseTest {
 
         System.out.println();
 
-        Q1_ObjectOrientedClass oop = new Q1_ObjectOrientedClass("IT", "Jihoon", 3, "Objected Oriented", false, "M302","Minjoo");
+        Q1_SpecificCourse oop = new Q1_SpecificCourse("IT", "Jihoon", 3, "Objected Oriented", false, "M302","Minjoo");
 
         oop.addStudents("Meisam");
         oop.addStudents("Raffin");

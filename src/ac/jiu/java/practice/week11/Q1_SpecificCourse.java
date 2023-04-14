@@ -1,7 +1,7 @@
 package ac.jiu.java.practice.week11;
 import java.lang.*;
 
-public class Q1_ObjectOrientedClass extends Q1_Course {
+public class Q1_SpecificCourse extends Q1_Course {
     // properties
     private final String name;
     private final boolean isOnline;
@@ -10,7 +10,7 @@ public class Q1_ObjectOrientedClass extends Q1_Course {
 
 
     // constructor
-    Q1_ObjectOrientedClass(String major, String instructor, int credit, String name, boolean isOnline, String classRoom, String lecturer) {
+    Q1_SpecificCourse(String major, String instructor, int credit, String name, boolean isOnline, String classRoom, String lecturer) {
         super(major, instructor, credit);
 
         this.name = name;
