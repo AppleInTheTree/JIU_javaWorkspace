@@ -27,12 +27,10 @@ public class Q1_CourseTest {
         objectOriented.addStudents("Hegel");
         objectOriented.addStudents("Clay");
         objectOriented.addStudents("Theo");
+        objectOriented.addStudents("Elijah");
 
         // oop 클래스에 있는 학생들 수학 수업에 넣기
-        for (int i = 0; i < objectOriented.getNumOfStudents(); i++) {
-            calculus.addStudents(objectOriented.getStudents().get(i));
-        }
-
+        extracted(objectOriented, calculus);
 
 
         System.out.println(objectOriented +"\n");
@@ -44,5 +42,11 @@ public class Q1_CourseTest {
         System.out.println("Members of the " + calculus.getName() + "is following: ");
         calculus.displayStudents();
 
+    }
+
+    private static void extracted(Q1_SpecificCourse objectOriented, Q1_SpecificCourse calculus) {
+        for (int i = 0; i < objectOriented.getNumOfStudents(); i++) {
+            calculus.addStudents(objectOriented.getStudents().get(i));
+        }
     }
 }
