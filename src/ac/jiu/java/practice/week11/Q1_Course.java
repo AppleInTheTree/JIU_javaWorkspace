@@ -11,7 +11,7 @@ public class Q1_Course {
     private int credit;
 
     //constructor
-    Q1_Course() {
+    public Q1_Course() {
         this.students = new ArrayList<>();
     }
 
