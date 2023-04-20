@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week12 pracitice">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/exampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12Example/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12Example/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12Example/GeometricObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12Example/Rectangle.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week12 practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/Q1_Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week11/Q1_Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/Security.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +105,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Feat: Add Chapter7 docs">
-      <created>1678079309097</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1678079309097</updated>
     </task>
     <task id="LOCAL-00047" summary="Feat: Add Chapter8 docs">
       <created>1678180500611</created>
@@ -454,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681786096298</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Feat: Add week12 practice">
+      <created>1681889388578</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1681889388579</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +465,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add chapter9 grammar docs" />
     <MESSAGE value="Feat: Add assignment 7-2 problem" />
     <MESSAGE value="Feat: Add week8 problem" />
     <MESSAGE value="Feat: Add assignment8 problem" />
@@ -495,7 +489,8 @@
     <MESSAGE value="Feat: Add attributes in courseTest" />
     <MESSAGE value="Feat: Add assignment 12" />
     <MESSAGE value="Feat: Add week12 pracitice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week12 pracitice" />
+    <MESSAGE value="Feat: Add week12 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week12 practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
