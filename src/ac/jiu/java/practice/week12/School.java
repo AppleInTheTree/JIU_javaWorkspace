@@ -1,5 +1,6 @@
 package ac.jiu.java.practice.week12;
 import java.util.*;
+
 public class School extends Building implements Security {
     private final ArrayList<String> students;
     private final ArrayList<String> professors;
@@ -35,6 +36,10 @@ public class School extends Building implements Security {
     @Override
     public void securityCheck() {
         System.out.println("There is a one security office in our school");
+    }
+    @Override
+    public void securityName() {
+        System.out.println("Name is Minjoo");
     }
 
     @Override
