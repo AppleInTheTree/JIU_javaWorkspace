@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week12">
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/SchoolBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Transportation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment11/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment11/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment11/staticExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/BuildingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/BuildingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/SoccerField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/Stadium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/exampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/School.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._01_HelloWorld">
+  <component name="RunManager">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -109,13 +111,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Feat: Add chapter9 grammar docs">
-      <created>1678460220381</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1678460220381</updated>
     </task>
     <task id="LOCAL-00052" summary="Feat: Add chapter9 grammar docs">
       <created>1678683214788</created>
@@ -453,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682655222443</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Feat: Add week12">
+      <created>1683200482597</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1683200482597</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

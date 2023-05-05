@@ -53,6 +53,4 @@ public class School extends Building implements Security {
                 + getTotalPeople();
     }
 
-
-
 }
