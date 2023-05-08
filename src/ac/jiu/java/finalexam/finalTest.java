@@ -1,10 +1,11 @@
 package ac.jiu.java.finalexam;
 
 public class finalTest {
+    private int x;
     public static void main(String[] args) {
         // Make instance
-        Airplane airplane = new Airplane("Korean Air", "Korea", 400);
-        SchoolBus schoolBus = new SchoolBus("CGA SchoolBus", "K-EDUPLEX", 70);
+        Airplane airplane = new Airplane("Indonesian Air", "Bali", 400);
+        SchoolBus schoolBus = new SchoolBus("JIU SchoolBus", "K-EDUPLEX", 70);
         Display displayPassengers = new Display();
 
         // Airplane setting

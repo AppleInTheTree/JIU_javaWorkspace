@@ -3,7 +3,6 @@ import java.util.*;
 
 public class Airplane extends Transportation implements Passport {
     private final ArrayList<String> pilots;
-
     private final ArrayList<String> belongings;
 
     Airplane() {

@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add week12">
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/SchoolBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Transportation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add final exam">
+      <change afterPath="$PROJECT_DIR$/OOP-Final.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP-Final.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week13Example/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week13Example/Contest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week13Example/NotTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week13Example/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week13Example/TestClassroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$P-Final.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/practice/week12/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -111,13 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Feat: Add chapter9 grammar docs">
-      <created>1678683214788</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1678683214788</updated>
     </task>
     <task id="LOCAL-00053" summary="Feat: Add assignment 7-2 problem">
       <created>1678720147923</created>
@@ -455,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683200482597</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Feat: Add final exam">
+      <created>1683263253752</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1683263253752</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add week8 problem" />
     <MESSAGE value="Feat: Add assignment8 problem" />
     <MESSAGE value="Feat: Add week9 problem" />
     <MESSAGE value="Feat: Add grammer practice" />
@@ -496,7 +498,8 @@
     <MESSAGE value="Feat: Add week12 pracitice" />
     <MESSAGE value="Feat: Add week12 practice" />
     <MESSAGE value="Feat: Add week12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add week12" />
+    <MESSAGE value="Feat: Add final exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add final exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -505,6 +508,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/jiu/java/finalexam/Airplane.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
