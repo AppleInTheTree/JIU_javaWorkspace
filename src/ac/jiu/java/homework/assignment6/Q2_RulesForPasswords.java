@@ -17,48 +17,30 @@ public class Q2_RulesForPasswords {
     }
     public static boolean isVaild(String password) {
         int length = password.length();
-        if (isLengthValid(password, length) && isOnlyLettersAndDigits(password) && isUppercaseCharacters(password)) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        return isLengthValid(length) && isOnlyLettersAndDigits(password) && isUppercaseCharacters(password);
 
     }
 
-    public static boolean isLengthValid(String password, int validLength) {
-        if (validLength < 8) {
-            return false;
-        }
-        else {
-            return true;
-        }
+    public static boolean isLengthValid(int validLength) {
+        return validLength >= 8;
 
     }
     public static boolean isOnlyLettersAndDigits(String password) {
         for (int i = 0; i < password.length(); i++) {
 
             char check = password.charAt(i);
-            if (Character.isDigit(check) || Character.isLetter(check)) {
-                continue;
-            }
-            else {
+            if (!(Character.isDigit(check) || Character.isLetter(check))) {
                 return false;
             }
-
         }
         return true;
     }
     public static boolean isUppercaseCharacters(String password) {
-        int cnt = 0;
         for (int i = 0; i < password.length(); i++) {
 
             char check = password.charAt(i);
-            if (Character.isLowerCase(check) && cnt == 0) {
+            if (Character.isLowerCase(check)) {
                 return true;
-            }
-            else {
-                continue;
             }
         }
         return false;

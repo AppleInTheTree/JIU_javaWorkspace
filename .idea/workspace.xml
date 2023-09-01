@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add final practice">
+      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/AddingTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/ScannerPracticeOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/ScannerPracticeTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/Quotient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/finalexam/finalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Final.docx" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Final.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$P-Final.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,10 +58,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/ahn_euijin/Desktop/JIU 1학기 수업/javaWorkspace&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._01_HelloWorld">
+  <component name="RunManager">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -105,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672147996309</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Feat: Add week8 problem">
-      <created>1678783173476</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1678783173477</updated>
     </task>
     <task id="LOCAL-00055" summary="Feat: Add week8 problem">
       <created>1678890066817</created>
@@ -449,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683549107201</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Feat: Add final practice">
+      <created>1683613447716</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1683613447716</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
