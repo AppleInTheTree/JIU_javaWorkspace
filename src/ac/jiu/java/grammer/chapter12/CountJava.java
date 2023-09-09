@@ -23,9 +23,6 @@ public class CountJava {
 
                 temp = input.nextLine();
                 numLines++;
-                String[] tempA = new String[temp.length()];
-
-
 
                 String[] tempArr = temp.split(" ");
 
@@ -36,6 +33,9 @@ public class CountJava {
                     numChars += tempArr[i].length();
                 }
             }
+
+        }
+        catch (IOException ex) {
 
         }
 

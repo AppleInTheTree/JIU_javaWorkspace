@@ -19,7 +19,5 @@ public class ArrayIndexOutOfBoundsException {
            System.out.println("Out of Bounds");
        }
 
-
-
     }
 }

@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add final practice">
-      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/AddingTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/ScannerPracticeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/ScannerPracticeTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/indacheong/java/practice/week1/StringPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/Quotient.java" afterDir="false" />
+    <list default="true" id="05ff516c-ca7a-45c5-a5c6-17f56b48585a" name="Changes" comment="Feat: Add Chapter 12 homeworks">
+      <change afterPath="$PROJECT_DIR$/src/Java_class_book_.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter15/CombineFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter15/CombineFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter15/SplitFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter15/SplitFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP-Final.docx" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-Final.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/homework/assignment6/Q2_RulesForPasswords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$P-Final.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/ArrayIndexOutOfBoundsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/jiu/java/grammer/chapter12/CountJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._01_HelloWorld">
     <configuration name="_01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_01._01_HelloWorld" />
       <module name="javaWorkspace" />
@@ -464,7 +458,7 @@
       <option name="project" value="LOCAL" />
       <updated>1683613447716</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Feat: Add week9 problem" />
     <MESSAGE value="Feat: Add grammer practice" />
     <MESSAGE value="Feat: Add test3 practice" />
     <MESSAGE value="Feat: Revise Q2_MultiplyMatrix" />
@@ -505,7 +498,8 @@
     <MESSAGE value="Feat: Add week12" />
     <MESSAGE value="Feat: Add final exam" />
     <MESSAGE value="Feat: Add final practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add final practice" />
+    <MESSAGE value="Feat: Add Chapter 12 homeworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Add Chapter 12 homeworks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
